@@ -1,0 +1,41 @@
+city,export,cost,policy,gain_mean,gain_sd,vs_fixed_mean,vs_fixed_p10,vs_fixed_p90,n_mean,summer_n_mean,sc_wins_pct
+riyadh,5 halala,base,Fixed interval,17614.8,1126.6,0.0,0.0,0.0,8.0,2.0,100.0
+riyadh,5 halala,base,Fixed + summer skip,17929.3,1209.8,1.9,-3.3,8.0,10.0,1.0,100.0
+riyadh,5 halala,base,Soiling threshold,19524.9,1137.2,11.0,4.8,18.4,9.9,1.6,58.0
+riyadh,5 halala,base,Predictive energy-only,19339.1,1153.8,10.0,3.7,17.5,12.3,2.1,75.0
+riyadh,5 halala,base,Predictive SC-aware,19533.9,1133.0,11.1,5.0,18.4,8.4,1.1,0.0
+riyadh,5 halala,high,Fixed interval,13139.9,1000.8,0.0,0.0,0.0,6.0,1.0,100.0
+riyadh,5 halala,high,Fixed + summer skip,12293.4,1401.0,-6.7,-11.6,-1.0,5.0,1.0,100.0
+riyadh,5 halala,high,Soiling threshold,15404.8,1222.8,17.6,5.8,32.1,7.3,1.1,70.0
+riyadh,5 halala,high,Predictive energy-only,15408.6,1299.2,17.6,5.6,32.1,7.3,1.1,71.0
+riyadh,5 halala,high,Predictive SC-aware,15878.6,1266.3,21.3,6.5,34.6,4.6,0.9,0.0
+riyadh,zero,base,Fixed interval,15775.3,1063.1,0.0,0.0,0.0,8.0,2.0,100.0
+riyadh,zero,base,Fixed + summer skip,15363.7,1237.5,-2.7,-6.9,-0.2,7.0,1.0,100.0
+riyadh,zero,base,Soiling threshold,17185.4,1125.2,9.1,2.8,17.1,7.3,1.1,87.0
+riyadh,zero,base,Predictive energy-only,17161.0,1095.1,9.0,2.8,17.0,12.3,2.1,90.0
+riyadh,zero,base,Predictive SC-aware,17467.0,1048.3,10.9,4.3,19.0,10.4,1.1,0.0
+riyadh,zero,high,Fixed interval,11761.5,1286.3,0.0,0.0,0.0,4.0,1.0,98.0
+riyadh,zero,high,Fixed + summer skip,11318.5,1189.1,-3.0,-18.3,14.5,5.0,1.0,100.0
+riyadh,zero,high,Soiling threshold,13415.4,1180.0,14.8,1.4,31.1,7.3,1.1,89.0
+riyadh,zero,high,Predictive energy-only,13865.5,1098.6,18.8,5.1,37.3,5.2,0.8,72.0
+riyadh,zero,high,Predictive SC-aware,14314.0,1198.6,22.6,8.2,40.0,4.1,0.9,0.0
+jeddah,5 halala,base,Fixed interval,15369.1,1332.7,0.0,0.0,0.0,12.0,2.0,100.0
+jeddah,5 halala,base,Fixed + summer skip,15550.7,1358.2,1.2,-3.0,6.1,10.0,1.0,100.0
+jeddah,5 halala,base,Soiling threshold,17196.6,1515.3,12.0,4.4,19.5,11.6,2.2,84.0
+jeddah,5 halala,base,Predictive energy-only,16945.9,1513.7,10.4,2.2,18.3,14.0,2.6,98.0
+jeddah,5 halala,base,Predictive SC-aware,17402.5,1572.7,13.4,6.0,21.7,8.9,1.0,0.0
+jeddah,5 halala,high,Fixed interval,10489.1,1191.7,0.0,0.0,0.0,6.0,1.0,98.0
+jeddah,5 halala,high,Fixed + summer skip,10284.4,1613.5,-2.3,-11.3,4.4,5.0,1.0,97.0
+jeddah,5 halala,high,Soiling threshold,13685.9,1484.0,31.5,12.1,52.5,6.3,1.1,39.0
+jeddah,5 halala,high,Predictive energy-only,13735.2,1334.6,32.1,12.4,53.1,5.5,1.0,30.0
+jeddah,5 halala,high,Predictive SC-aware,13396.8,1429.0,28.8,10.8,47.9,7.2,1.0,0.0
+jeddah,zero,base,Fixed interval,13705.3,1279.8,0.0,0.0,0.0,12.0,2.0,100.0
+jeddah,zero,base,Fixed + summer skip,14077.5,1303.8,2.8,-1.7,8.3,10.0,1.0,100.0
+jeddah,zero,base,Soiling threshold,15417.0,1438.0,12.7,4.5,20.4,11.6,2.2,97.0
+jeddah,zero,base,Predictive energy-only,15619.9,1455.2,14.2,4.6,22.4,7.4,1.3,89.0
+jeddah,zero,base,Predictive SC-aware,15895.3,1461.7,16.2,8.3,25.1,8.4,1.0,0.0
+jeddah,zero,high,Fixed interval,8398.9,1666.1,0.0,0.0,0.0,3.0,0.0,100.0
+jeddah,zero,high,Fixed + summer skip,9347.5,1374.7,13.3,1.6,33.4,5.0,1.0,98.0
+jeddah,zero,high,Soiling threshold,12108.4,1403.4,49.5,16.7,88.6,6.3,1.1,75.0
+jeddah,zero,high,Predictive energy-only,12241.9,1242.8,51.4,17.2,82.5,5.5,1.0,65.0
+jeddah,zero,high,Predictive SC-aware,12368.1,1417.2,52.9,18.7,86.7,5.2,1.0,0.0
