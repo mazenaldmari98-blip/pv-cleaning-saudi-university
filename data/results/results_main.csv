@@ -1,161 +1,161 @@
 scenario,city,export,cost,strategy,param,n,summer_n,pv_MWh,self_MWh,export_MWh,mean_loss_pct,gain,vs_fixed_pct
-office-like,riyadh,5 halala,low,Fixed interval,21.0,17,3,272.3,226.4,45.9,2.41,22251,0.0
-office-like,riyadh,5 halala,low,Soiling threshold,0.04,20,5,273.8,227.3,46.5,1.89,22324,0.3
-office-like,riyadh,5 halala,low,Predictive energy-only,7.0,18,4,273.1,226.8,46.3,2.14,22315,0.3
-office-like,riyadh,5 halala,low,Predictive SC-aware,7.0,13,3,270.7,225.4,45.3,3.02,22217,-0.2
-office-like,riyadh,5 halala,low,SC-aware perfect fcst,7.0,11,3,269.5,225.0,44.5,3.5,22196,-0.2
-office-like,riyadh,5 halala,base,Fixed interval,30.0,12,2,269.3,224.5,44.8,3.5,19708,0.0
-office-like,riyadh,5 halala,base,Soiling threshold,0.1,8,2,265.8,222.2,43.6,4.73,19990,1.4
-office-like,riyadh,5 halala,base,Predictive energy-only,14.0,10,2,269.0,224.3,44.7,3.61,20161,2.3
-office-like,riyadh,5 halala,base,Predictive SC-aware,21.0,10,3,268.9,224.4,44.5,3.68,20195,2.5
-office-like,riyadh,5 halala,base,SC-aware perfect fcst,14.0,7,1,265.5,222.2,43.3,4.88,20239,2.7
-office-like,riyadh,5 halala,high,Fixed interval,60.0,6,1,260.5,218.4,42.1,6.57,16105,0.0
-office-like,riyadh,5 halala,high,Soiling threshold,0.15,5,1,260.3,218.3,42.0,6.64,16853,4.6
-office-like,riyadh,5 halala,high,Predictive energy-only,21.0,5,1,260.0,218.1,41.9,6.72,16801,4.3
-office-like,riyadh,5 halala,high,Predictive SC-aware,30.0,5,1,260.8,218.6,42.2,6.53,16971,5.4
-office-like,riyadh,5 halala,high,SC-aware perfect fcst,30.0,5,2,261.1,218.9,42.1,6.44,17078,6.0
-office-like,riyadh,5 halala,stress,Fixed interval,90.0,4,1,251.9,213.1,38.9,9.55,10106,0.0
-office-like,riyadh,5 halala,stress,Soiling threshold,0.3,2,0,243.1,206.0,37.1,12.68,12191,20.6
-office-like,riyadh,5 halala,stress,Predictive energy-only,30.0,2,0,243.5,206.6,36.9,12.56,12361,22.3
-office-like,riyadh,5 halala,stress,Predictive SC-aware,45.0,3,1,250.6,212.2,38.4,9.98,12021,18.9
-office-like,riyadh,5 halala,stress,SC-aware perfect fcst,60.0,3,1,251.9,213.4,38.6,9.68,12398,22.7
-office-like,riyadh,zero,low,Fixed interval,21.0,17,3,272.3,226.4,45.9,2.41,21234,0.0
-office-like,riyadh,zero,low,Soiling threshold,0.05,16,4,272.3,226.4,45.9,2.41,21293,0.3
-office-like,riyadh,zero,low,Predictive energy-only,7.0,18,4,273.1,226.8,46.3,2.14,21281,0.2
-office-like,riyadh,zero,low,Predictive SC-aware,7.0,12,3,270.1,225.2,45.0,3.22,21225,-0.0
-office-like,riyadh,zero,low,SC-aware perfect fcst,7.0,11,3,269.5,225.1,44.5,3.45,21271,0.2
-office-like,riyadh,zero,base,Fixed interval,45.0,8,2,264.7,221.3,43.4,5.1,18793,0.0
-office-like,riyadh,zero,base,Soiling threshold,0.1,8,2,265.8,222.2,43.6,4.73,19089,1.6
-office-like,riyadh,zero,base,Predictive energy-only,14.0,10,2,269.0,224.3,44.7,3.61,19206,2.2
-office-like,riyadh,zero,base,Predictive SC-aware,21.0,10,3,268.6,224.5,44.0,3.77,19287,2.6
-office-like,riyadh,zero,base,SC-aware perfect fcst,21.0,9,3,267.8,224.0,43.8,4.05,19384,3.1
-office-like,riyadh,zero,high,Fixed interval,60.0,6,1,260.5,218.4,42.1,6.57,15280,0.0
-office-like,riyadh,zero,high,Soiling threshold,0.15,5,1,260.3,218.3,42.0,6.64,16032,4.9
-office-like,riyadh,zero,high,Predictive energy-only,21.0,5,1,260.0,218.1,41.9,6.72,15986,4.6
-office-like,riyadh,zero,high,Predictive SC-aware,30.0,5,1,260.3,218.3,42.0,6.68,16029,4.9
-office-like,riyadh,zero,high,SC-aware perfect fcst,21.0,3,1,252.4,213.6,38.8,9.51,16108,5.4
-office-like,riyadh,zero,stress,Fixed interval,90.0,4,1,251.9,213.1,38.9,9.55,9442,0.0
-office-like,riyadh,zero,stress,Soiling threshold,0.3,2,0,243.1,206.0,37.1,12.68,11615,23.0
-office-like,riyadh,zero,stress,Predictive energy-only,30.0,2,0,243.5,206.6,36.9,12.56,11793,24.9
-office-like,riyadh,zero,stress,Predictive SC-aware,60.0,3,1,252.4,213.7,38.7,9.49,11850,25.5
-office-like,riyadh,zero,stress,SC-aware perfect fcst,45.0,2,1,243.7,206.9,36.8,12.55,11880,25.8
-office-like,jeddah,5 halala,low,Fixed interval,21.0,17,3,253.3,222.0,31.4,3.35,20971,0.0
-office-like,jeddah,5 halala,low,Soiling threshold,0.05,22,5,255.5,223.6,31.9,2.51,21139,0.8
-office-like,jeddah,5 halala,low,Predictive energy-only,7.0,22,5,255.9,223.8,32.2,2.38,21199,1.1
-office-like,jeddah,5 halala,low,Predictive SC-aware,7.0,17,4,254.3,222.6,31.7,2.99,21192,1.1
-office-like,jeddah,5 halala,low,SC-aware perfect fcst,7.0,17,4,254.3,222.7,31.6,2.98,21225,1.2
-office-like,jeddah,5 halala,base,Fixed interval,30.0,12,2,249.8,219.3,30.5,4.65,18201,0.0
-office-like,jeddah,5 halala,base,Soiling threshold,0.1,10,2,249.8,219.3,30.5,4.68,18722,2.9
-office-like,jeddah,5 halala,base,Predictive energy-only,14.0,12,3,251.8,220.7,31.1,3.93,18677,2.6
-office-like,jeddah,5 halala,base,Predictive SC-aware,14.0,9,2,247.8,218.2,29.6,5.41,18616,2.3
-office-like,jeddah,5 halala,base,SC-aware perfect fcst,14.0,9,2,248.0,218.4,29.5,5.37,18671,2.6
-office-like,jeddah,5 halala,high,Fixed interval,60.0,6,1,240.0,211.4,28.6,8.28,14069,0.0
-office-like,jeddah,5 halala,high,Soiling threshold,0.2,4,1,239.0,211.3,27.6,8.74,15579,10.7
-office-like,jeddah,5 halala,high,Predictive energy-only,21.0,6,2,242.9,213.9,29.0,7.27,14901,5.9
-office-like,jeddah,5 halala,high,Predictive SC-aware,21.0,5,1,239.6,211.8,27.8,8.45,14961,6.3
-office-like,jeddah,5 halala,high,SC-aware perfect fcst,21.0,4,1,238.9,211.4,27.6,8.75,15582,10.8
-office-like,jeddah,5 halala,stress,Fixed interval,90.0,4,1,232.1,205.7,26.4,11.25,8010,0.0
-office-like,jeddah,5 halala,stress,Soiling threshold,0.25,3,1,233.5,206.9,26.7,10.68,10601,32.4
-office-like,jeddah,5 halala,stress,Predictive energy-only,45.0,4,1,238.8,211.1,27.7,8.79,9793,22.3
-office-like,jeddah,5 halala,stress,Predictive SC-aware,45.0,3,1,233.4,206.6,26.8,10.72,10519,31.3
-office-like,jeddah,5 halala,stress,SC-aware perfect fcst,45.0,3,1,233.4,206.7,26.7,10.72,10556,31.8
-office-like,jeddah,zero,low,Fixed interval,21.0,17,3,253.3,222.0,31.4,3.35,20269,0.0
-office-like,jeddah,zero,low,Soiling threshold,0.05,22,5,255.5,223.6,31.9,2.51,20409,0.7
-office-like,jeddah,zero,low,Predictive energy-only,7.0,22,5,255.9,223.8,32.2,2.38,20457,0.9
-office-like,jeddah,zero,low,Predictive SC-aware,7.0,16,4,253.9,222.2,31.7,3.15,20434,0.8
-office-like,jeddah,zero,low,SC-aware perfect fcst,7.0,17,4,254.1,222.4,31.6,3.07,20417,0.7
-office-like,jeddah,zero,base,Fixed interval,30.0,12,2,249.8,219.3,30.5,4.65,17541,0.0
-office-like,jeddah,zero,base,Soiling threshold,0.1,10,2,249.8,219.3,30.5,4.68,18060,3.0
-office-like,jeddah,zero,base,Predictive energy-only,14.0,12,3,251.8,220.7,31.1,3.93,17985,2.5
-office-like,jeddah,zero,base,Predictive SC-aware,14.0,8,2,247.8,218.1,29.7,5.46,18228,3.9
-office-like,jeddah,zero,base,SC-aware perfect fcst,14.0,8,2,247.8,218.1,29.7,5.46,18226,3.9
-office-like,jeddah,zero,high,Fixed interval,60.0,6,1,240.0,211.4,28.6,8.28,13504,0.0
-office-like,jeddah,zero,high,Soiling threshold,0.2,4,1,239.0,211.3,27.6,8.74,15064,11.6
-office-like,jeddah,zero,high,Predictive energy-only,14.0,4,1,236.2,209.1,27.1,9.7,14346,6.2
-office-like,jeddah,zero,high,Predictive SC-aware,21.0,4,1,238.9,211.5,27.5,8.74,15106,11.9
-office-like,jeddah,zero,high,SC-aware perfect fcst,21.0,4,1,238.9,211.4,27.5,8.74,15097,11.8
-office-like,jeddah,zero,stress,Fixed interval,90.0,4,1,232.1,205.7,26.4,11.25,7557,0.0
-office-like,jeddah,zero,stress,Soiling threshold,0.25,3,1,233.5,206.9,26.7,10.68,10134,34.1
-office-like,jeddah,zero,stress,Predictive energy-only,45.0,4,1,238.8,211.1,27.7,8.79,9273,22.7
-office-like,jeddah,zero,stress,Predictive SC-aware,45.0,3,1,233.2,206.2,26.9,10.8,9932,31.4
-office-like,jeddah,zero,stress,SC-aware perfect fcst,45.0,3,1,233.3,206.6,26.7,10.74,10059,33.1
-university,riyadh,5 halala,low,Fixed interval,21.0,17,3,272.3,204.5,67.8,2.41,17344,0.0
-university,riyadh,5 halala,low,Soiling threshold,0.05,16,4,272.3,204.5,67.7,2.41,17414,0.4
-university,riyadh,5 halala,low,Predictive energy-only,7.0,18,4,273.1,204.8,68.3,2.14,17373,0.2
-university,riyadh,5 halala,low,Predictive SC-aware,14.0,19,3,272.2,205.2,67.0,2.48,17354,0.1
-university,riyadh,5 halala,low,SC-aware perfect fcst,14.0,18,3,272.1,205.1,67.0,2.51,17413,0.4
-university,riyadh,5 halala,base,Fixed interval,45.0,8,2,264.7,200.8,63.9,5.1,15150,0.0
-university,riyadh,5 halala,base,Soiling threshold,0.1,8,2,265.8,201.1,64.7,4.73,15277,0.8
-university,riyadh,5 halala,base,Predictive energy-only,14.0,10,2,269.0,202.9,66.1,3.61,15377,1.5
-university,riyadh,5 halala,base,Predictive SC-aware,14.0,6,1,262.2,200.7,61.6,5.97,15525,2.5
-university,riyadh,5 halala,base,SC-aware perfect fcst,21.0,8,1,265.2,202.1,63.0,5.01,15523,2.5
-university,riyadh,5 halala,high,Fixed interval,60.0,6,1,260.5,198.7,61.7,6.57,11803,0.0
-university,riyadh,5 halala,high,Soiling threshold,0.15,5,1,260.3,198.6,61.6,6.64,12550,6.3
-university,riyadh,5 halala,high,Predictive energy-only,21.0,5,1,260.0,198.5,61.5,6.72,12505,5.9
-university,riyadh,5 halala,high,Predictive SC-aware,21.0,3,1,247.5,194.7,52.8,11.16,12421,5.2
-university,riyadh,5 halala,high,SC-aware perfect fcst,30.0,4,1,257.4,197.7,59.7,7.77,12948,9.7
-university,riyadh,5 halala,stress,Fixed interval,120.0,3,0,243.3,191.0,52.3,12.61,6932,0.0
-university,riyadh,5 halala,stress,Soiling threshold,0.3,2,0,243.1,190.9,52.2,12.68,9108,31.4
-university,riyadh,5 halala,stress,Predictive energy-only,30.0,2,0,243.5,191.4,52.2,12.56,9250,33.4
-university,riyadh,5 halala,stress,Predictive SC-aware,45.0,2,1,243.6,191.5,52.1,12.58,9293,34.1
-university,riyadh,5 halala,stress,SC-aware perfect fcst,45.0,2,1,243.8,191.2,52.5,12.47,9231,33.2
-university,riyadh,zero,low,Fixed interval,21.0,17,3,272.3,204.5,67.8,2.41,15419,0.0
-university,riyadh,zero,low,Soiling threshold,0.05,16,4,272.3,204.5,67.7,2.41,15491,0.5
-university,riyadh,zero,low,Predictive energy-only,7.0,18,4,273.1,204.8,68.3,2.14,15423,0.0
-university,riyadh,zero,low,Predictive SC-aware,7.0,9,1,265.8,203.0,62.8,4.73,15564,0.9
-university,riyadh,zero,low,SC-aware perfect fcst,7.0,9,1,266.1,203.0,63.0,4.66,15566,1.0
-university,riyadh,zero,base,Fixed interval,45.0,8,2,264.7,200.8,63.9,5.1,13418,0.0
-university,riyadh,zero,base,Soiling threshold,0.15,5,1,260.3,198.6,61.6,6.64,13522,0.8
-university,riyadh,zero,base,Predictive energy-only,14.0,10,2,269.0,202.9,66.1,3.61,13535,0.9
-university,riyadh,zero,base,Predictive SC-aware,21.0,7,1,261.4,201.4,60.0,6.32,13876,3.4
-university,riyadh,zero,base,SC-aware perfect fcst,21.0,7,1,261.0,201.3,59.7,6.44,13850,3.2
-university,riyadh,zero,high,Fixed interval,90.0,4,1,251.9,194.2,57.8,9.55,10294,0.0
-university,riyadh,zero,high,Soiling threshold,0.15,5,1,260.3,198.6,61.6,6.64,10933,6.2
-university,riyadh,zero,high,Predictive energy-only,14.0,3,1,251.9,194.1,57.7,9.6,11063,7.5
-university,riyadh,zero,high,Predictive SC-aware,21.0,3,1,246.4,194.5,51.8,11.53,11196,8.8
-university,riyadh,zero,high,SC-aware perfect fcst,30.0,3,1,248.4,194.4,54.0,10.87,11160,8.4
-university,riyadh,zero,stress,Fixed interval,120.0,3,0,243.3,191.0,52.3,12.61,5780,0.0
-university,riyadh,zero,stress,Soiling threshold,0.3,2,0,243.1,190.9,52.2,12.68,7960,37.7
-university,riyadh,zero,stress,Predictive energy-only,30.0,2,0,243.5,191.4,52.2,12.56,8106,40.3
-university,riyadh,zero,stress,Predictive SC-aware,45.0,2,1,243.6,191.6,51.9,12.58,8196,41.8
-university,riyadh,zero,stress,SC-aware perfect fcst,45.0,2,1,243.8,191.2,52.7,12.45,8053,39.3
-university,jeddah,5 halala,low,Fixed interval,21.0,17,3,253.3,201.4,52.0,3.35,16036,0.0
-university,jeddah,5 halala,low,Soiling threshold,0.07,15,3,253.5,201.1,52.4,3.27,16140,0.6
-university,jeddah,5 halala,low,Predictive energy-only,7.0,22,5,255.9,202.7,53.3,2.38,16129,0.6
-university,jeddah,5 halala,low,Predictive SC-aware,7.0,15,2,250.9,201.6,49.4,4.25,16132,0.6
-university,jeddah,5 halala,low,SC-aware perfect fcst,7.0,14,2,250.7,201.5,49.2,4.34,16193,1.0
-university,jeddah,5 halala,base,Fixed interval,30.0,12,2,249.8,199.4,50.4,4.65,13445,0.0
-university,jeddah,5 halala,base,Soiling threshold,0.1,10,2,249.8,199.3,50.5,4.68,13950,3.8
-university,jeddah,5 halala,base,Predictive energy-only,14.0,12,3,251.8,200.4,51.4,3.93,13820,2.8
-university,jeddah,5 halala,base,Predictive SC-aware,14.0,8,1,244.2,197.9,46.3,6.81,13835,2.9
-university,jeddah,5 halala,base,SC-aware perfect fcst,14.0,8,1,244.2,197.9,46.3,6.78,13844,3.0
-university,jeddah,5 halala,high,Fixed interval,60.0,6,1,240.0,193.7,46.3,8.28,9920,0.0
-university,jeddah,5 halala,high,Soiling threshold,0.2,4,1,239.0,193.0,46.0,8.74,11248,13.4
-university,jeddah,5 halala,high,Predictive energy-only,14.0,4,1,236.2,191.7,44.5,9.7,10756,8.4
-university,jeddah,5 halala,high,Predictive SC-aware,30.0,5,1,240.4,195.7,44.7,8.22,11261,13.5
-university,jeddah,5 halala,high,SC-aware perfect fcst,30.0,5,1,240.6,195.7,45.0,8.14,11272,13.6
-university,jeddah,5 halala,stress,Fixed interval,120.0,3,0,224.0,186.8,37.3,14.29,5328,0.0
-university,jeddah,5 halala,stress,Soiling threshold,0.25,3,1,233.5,189.6,44.0,10.68,6553,23.0
-university,jeddah,5 halala,stress,Predictive energy-only,45.0,4,1,238.8,193.0,45.8,8.79,5525,3.7
-university,jeddah,5 halala,stress,Predictive SC-aware,45.0,3,1,231.0,190.1,41.0,11.61,6559,23.1
-university,jeddah,5 halala,stress,SC-aware perfect fcst,45.0,3,1,230.4,189.3,41.1,11.84,6327,18.7
-university,jeddah,zero,low,Fixed interval,21.0,17,3,253.3,201.4,52.0,3.35,14419,0.0
-university,jeddah,zero,low,Soiling threshold,0.07,15,3,253.5,201.1,52.4,3.27,14500,0.6
-university,jeddah,zero,low,Predictive energy-only,7.0,22,5,255.9,202.7,53.3,2.38,14449,0.2
-university,jeddah,zero,low,Predictive SC-aware,7.0,13,1,248.3,200.9,47.4,5.3,14576,1.1
-university,jeddah,zero,low,SC-aware perfect fcst,7.0,13,1,248.7,201.1,47.5,5.15,14655,1.6
-university,jeddah,zero,base,Fixed interval,30.0,12,2,249.8,199.4,50.4,4.65,11905,0.0
-university,jeddah,zero,base,Soiling threshold,0.1,10,2,249.8,199.3,50.5,4.68,12405,4.2
-university,jeddah,zero,base,Predictive energy-only,7.0,5,2,242.6,195.1,47.4,7.44,12417,4.3
-university,jeddah,zero,base,Predictive SC-aware,14.0,7,1,243.8,197.7,46.1,6.97,12710,6.8
-university,jeddah,zero,base,SC-aware perfect fcst,14.0,7,1,243.4,197.5,46.0,7.12,12631,6.1
-university,jeddah,zero,high,Fixed interval,120.0,3,0,224.0,186.8,37.3,14.29,8732,0.0
-university,jeddah,zero,high,Soiling threshold,0.2,4,1,239.0,193.0,46.0,8.74,9931,13.7
-university,jeddah,zero,high,Predictive energy-only,14.0,4,1,236.2,191.7,44.5,9.7,9514,8.9
-university,jeddah,zero,high,Predictive SC-aware,21.0,3,1,228.5,190.7,37.8,12.63,10000,14.5
-university,jeddah,zero,high,SC-aware perfect fcst,21.0,3,1,228.5,190.7,37.8,12.63,10000,14.5
-university,jeddah,zero,stress,Fixed interval,120.0,3,0,224.0,186.8,37.3,14.29,4446,0.0
-university,jeddah,zero,stress,Soiling threshold,0.25,3,1,233.5,189.6,44.0,10.68,5336,20.0
-university,jeddah,zero,stress,Predictive energy-only,30.0,3,1,227.8,186.5,41.3,12.78,4362,-1.9
-university,jeddah,zero,stress,Predictive SC-aware,21.0,1,1,200.6,177.0,23.6,22.96,5754,29.4
-university,jeddah,zero,stress,SC-aware perfect fcst,21.0,1,1,200.6,177.0,23.6,22.96,5754,29.4
+office-like,riyadh,5 halala,low,Fixed interval,21.0,17,3,272.3,226.4,45.9,2.41,24367,0.0
+office-like,riyadh,5 halala,low,Soiling threshold,0.04,20,5,273.8,227.3,46.5,1.89,24466,0.4
+office-like,riyadh,5 halala,low,Predictive energy-only,7.0,19,4,273.6,227.1,46.5,1.99,24465,0.4
+office-like,riyadh,5 halala,low,Predictive SC-aware,7.0,13,3,271.0,225.7,45.3,2.92,24402,0.1
+office-like,riyadh,5 halala,low,SC-aware perfect fcst,7.0,13,3,271.1,226.0,45.0,2.89,24506,0.6
+office-like,riyadh,5 halala,base,Fixed interval,30.0,12,2,269.3,224.5,44.8,3.5,21767,0.0
+office-like,riyadh,5 halala,base,Soiling threshold,0.1,8,2,265.8,222.2,43.6,4.73,21980,1.0
+office-like,riyadh,5 halala,base,Predictive energy-only,14.0,11,3,269.8,224.8,45.0,3.31,22139,1.7
+office-like,riyadh,5 halala,base,Predictive SC-aware,14.0,8,2,266.9,223.2,43.6,4.38,22336,2.6
+office-like,riyadh,5 halala,base,SC-aware perfect fcst,14.0,8,2,267.0,223.2,43.8,4.35,22328,2.6
+office-like,riyadh,5 halala,high,Fixed interval,60.0,6,1,260.5,218.4,42.1,6.57,17979,0.0
+office-like,riyadh,5 halala,high,Soiling threshold,0.15,5,1,260.3,218.3,42.0,6.64,18724,4.1
+office-like,riyadh,5 halala,high,Predictive energy-only,21.0,5,2,261.3,219.3,42.0,6.31,19088,6.2
+office-like,riyadh,5 halala,high,Predictive SC-aware,21.0,4,1,256.8,216.8,40.0,7.9,18891,5.1
+office-like,riyadh,5 halala,high,SC-aware perfect fcst,21.0,4,1,256.9,217.0,39.9,7.86,18951,5.4
+office-like,riyadh,5 halala,stress,Fixed interval,90.0,4,1,251.9,213.1,38.9,9.55,11821,0.0
+office-like,riyadh,5 halala,stress,Soiling threshold,0.3,2,0,243.1,206.0,37.1,12.68,13695,15.9
+office-like,riyadh,5 halala,stress,Predictive energy-only,45.0,4,1,257.4,215.8,41.6,7.73,12900,9.1
+office-like,riyadh,5 halala,stress,Predictive SC-aware,45.0,3,1,252.2,213.4,38.8,9.48,14141,19.6
+office-like,riyadh,5 halala,stress,SC-aware perfect fcst,45.0,3,1,252.2,213.5,38.7,9.5,14164,19.8
+office-like,riyadh,zero,low,Fixed interval,21.0,17,3,272.3,226.4,45.9,2.41,23350,0.0
+office-like,riyadh,zero,low,Soiling threshold,0.04,20,5,273.8,227.3,46.5,1.89,23420,0.3
+office-like,riyadh,zero,low,Predictive energy-only,7.0,19,4,273.6,227.1,46.5,1.99,23419,0.3
+office-like,riyadh,zero,low,Predictive SC-aware,7.0,13,3,271.0,225.7,45.3,2.94,23405,0.2
+office-like,riyadh,zero,low,SC-aware perfect fcst,7.0,12,3,270.1,225.5,44.6,3.26,23411,0.3
+office-like,riyadh,zero,base,Fixed interval,30.0,12,2,269.3,224.5,44.8,3.5,20807,0.0
+office-like,riyadh,zero,base,Soiling threshold,0.1,8,2,265.8,222.2,43.6,4.73,21079,1.3
+office-like,riyadh,zero,base,Predictive energy-only,14.0,11,3,269.8,224.8,45.0,3.31,21166,1.7
+office-like,riyadh,zero,base,Predictive SC-aware,14.0,8,2,266.5,222.9,43.6,4.49,21317,2.4
+office-like,riyadh,zero,base,SC-aware perfect fcst,21.0,10,3,268.7,224.6,44.1,3.74,21356,2.6
+office-like,riyadh,zero,high,Fixed interval,60.0,6,1,260.5,218.4,42.1,6.57,17154,0.0
+office-like,riyadh,zero,high,Soiling threshold,0.15,5,1,260.3,218.3,42.0,6.64,17903,4.4
+office-like,riyadh,zero,high,Predictive energy-only,21.0,5,2,261.3,219.3,42.0,6.31,18266,6.5
+office-like,riyadh,zero,high,Predictive SC-aware,21.0,4,1,256.1,216.4,39.7,8.11,18031,5.1
+office-like,riyadh,zero,high,SC-aware perfect fcst,30.0,5,2,261.0,218.7,42.2,6.49,18073,5.4
+office-like,riyadh,zero,stress,Fixed interval,90.0,4,1,251.9,213.1,38.9,9.55,11157,0.0
+office-like,riyadh,zero,stress,Soiling threshold,0.3,2,0,243.1,206.0,37.1,12.68,13119,17.6
+office-like,riyadh,zero,stress,Predictive energy-only,45.0,4,1,257.4,215.8,41.6,7.73,12098,8.4
+office-like,riyadh,zero,stress,Predictive SC-aware,45.0,3,1,251.7,213.0,38.6,9.63,13363,19.8
+office-like,riyadh,zero,stress,SC-aware perfect fcst,60.0,3,1,251.8,213.2,38.6,9.74,13422,20.3
+office-like,jeddah,5 halala,low,Fixed interval,21.0,17,3,253.3,222.0,31.4,3.35,22996,0.0
+office-like,jeddah,5 halala,low,Soiling threshold,0.05,22,5,255.5,223.6,31.9,2.51,23215,0.9
+office-like,jeddah,5 halala,low,Predictive energy-only,7.0,24,6,256.2,223.9,32.3,2.26,23177,0.8
+office-like,jeddah,5 halala,low,Predictive SC-aware,7.0,19,5,255.3,223.3,32.0,2.64,23332,1.5
+office-like,jeddah,5 halala,low,SC-aware perfect fcst,7.0,18,5,254.6,223.1,31.5,2.86,23331,1.5
+office-like,jeddah,5 halala,base,Fixed interval,30.0,12,2,249.8,219.3,30.5,4.65,20147,0.0
+office-like,jeddah,5 halala,base,Soiling threshold,0.1,10,2,249.8,219.3,30.5,4.68,20666,2.6
+office-like,jeddah,5 halala,base,Predictive energy-only,14.0,13,3,252.5,221.3,31.2,3.67,20598,2.2
+office-like,jeddah,5 halala,base,Predictive SC-aware,14.0,10,3,248.6,218.7,29.8,5.12,20454,1.5
+office-like,jeddah,5 halala,base,SC-aware perfect fcst,14.0,11,3,250.4,219.7,30.7,4.49,20563,2.1
+office-like,jeddah,5 halala,high,Fixed interval,60.0,6,1,240.0,211.4,28.6,8.28,15777,0.0
+office-like,jeddah,5 halala,high,Soiling threshold,0.2,4,1,239.0,211.3,27.6,8.74,17286,9.6
+office-like,jeddah,5 halala,high,Predictive energy-only,21.0,6,1,245.0,215.4,29.6,6.52,17221,9.1
+office-like,jeddah,5 halala,high,Predictive SC-aware,21.0,5,1,241.0,213.1,27.9,7.93,17132,8.6
+office-like,jeddah,5 halala,high,SC-aware perfect fcst,21.0,5,1,240.6,212.8,27.8,8.09,17013,7.8
+office-like,jeddah,5 halala,stress,Fixed interval,90.0,4,1,232.1,205.7,26.4,11.25,9548,0.0
+office-like,jeddah,5 halala,stress,Soiling threshold,0.25,3,1,233.5,206.9,26.7,10.68,12174,27.5
+office-like,jeddah,5 halala,stress,Predictive energy-only,30.0,3,1,231.9,205.3,26.6,11.28,11615,21.6
+office-like,jeddah,5 halala,stress,Predictive SC-aware,30.0,2,0,223.8,199.7,24.1,14.29,11741,23.0
+office-like,jeddah,5 halala,stress,SC-aware perfect fcst,30.0,2,0,223.6,199.7,23.9,14.35,11739,22.9
+office-like,jeddah,zero,low,Fixed interval,21.0,17,3,253.3,222.0,31.4,3.35,22294,0.0
+office-like,jeddah,zero,low,Soiling threshold,0.05,22,5,255.5,223.6,31.9,2.51,22485,0.9
+office-like,jeddah,zero,low,Predictive energy-only,7.0,24,6,256.2,223.9,32.3,2.26,22430,0.6
+office-like,jeddah,zero,low,Predictive SC-aware,7.0,18,5,254.6,222.9,31.7,2.87,22548,1.1
+office-like,jeddah,zero,low,SC-aware perfect fcst,7.0,18,5,254.6,222.9,31.6,2.89,22559,1.2
+office-like,jeddah,zero,base,Fixed interval,30.0,12,2,249.8,219.3,30.5,4.65,19487,0.0
+office-like,jeddah,zero,base,Soiling threshold,0.1,10,2,249.8,219.3,30.5,4.68,20005,2.7
+office-like,jeddah,zero,base,Predictive energy-only,14.0,13,3,252.5,221.3,31.2,3.67,19903,2.1
+office-like,jeddah,zero,base,Predictive SC-aware,14.0,10,3,248.0,218.2,29.8,5.33,19632,0.7
+office-like,jeddah,zero,base,SC-aware perfect fcst,14.0,9,3,248.0,218.3,29.7,5.36,19922,2.2
+office-like,jeddah,zero,high,Fixed interval,60.0,6,1,240.0,211.4,28.6,8.28,15212,0.0
+office-like,jeddah,zero,high,Soiling threshold,0.2,4,1,239.0,211.3,27.6,8.74,16771,10.2
+office-like,jeddah,zero,high,Predictive energy-only,14.0,4,1,238.5,210.9,27.6,8.88,16613,9.2
+office-like,jeddah,zero,high,Predictive SC-aware,21.0,5,1,240.4,212.6,27.8,8.14,16442,8.1
+office-like,jeddah,zero,high,SC-aware perfect fcst,21.0,5,1,239.9,212.2,27.6,8.35,16302,7.2
+office-like,jeddah,zero,stress,Fixed interval,90.0,4,1,232.1,205.7,26.4,11.25,9096,0.0
+office-like,jeddah,zero,stress,Soiling threshold,0.25,3,1,233.5,206.9,26.7,10.68,11707,28.7
+office-like,jeddah,zero,stress,Predictive energy-only,30.0,3,1,231.9,205.3,26.6,11.28,11152,22.6
+office-like,jeddah,zero,stress,Predictive SC-aware,30.0,2,0,223.6,199.7,23.9,14.35,11411,25.4
+office-like,jeddah,zero,stress,SC-aware perfect fcst,30.0,2,0,223.6,199.7,23.9,14.35,11411,25.4
+university,riyadh,5 halala,low,Fixed interval,21.0,17,3,272.3,204.5,67.8,2.41,18915,0.0
+university,riyadh,5 halala,low,Soiling threshold,0.05,16,4,272.3,204.5,67.7,2.41,18984,0.4
+university,riyadh,5 halala,low,Predictive energy-only,7.0,19,4,273.6,205.0,68.6,1.99,18952,0.2
+university,riyadh,5 halala,low,Predictive SC-aware,7.0,11,1,267.5,203.7,63.8,4.13,18895,-0.1
+university,riyadh,5 halala,low,SC-aware perfect fcst,14.0,20,3,272.6,205.2,67.3,2.36,18892,-0.1
+university,riyadh,5 halala,base,Fixed interval,45.0,8,2,264.7,200.8,63.9,5.1,16609,0.0
+university,riyadh,5 halala,base,Soiling threshold,0.1,8,2,265.8,201.1,64.7,4.73,16744,0.8
+university,riyadh,5 halala,base,Predictive energy-only,14.0,11,3,269.8,203.3,66.5,3.31,16801,1.2
+university,riyadh,5 halala,base,Predictive SC-aware,14.0,6,1,260.8,201.0,59.9,6.52,16996,2.3
+university,riyadh,5 halala,base,SC-aware perfect fcst,14.0,6,1,260.4,200.9,59.5,6.66,16966,2.1
+university,riyadh,5 halala,high,Fixed interval,60.0,6,1,260.5,198.7,61.7,6.57,13199,0.0
+university,riyadh,5 halala,high,Soiling threshold,0.15,5,1,260.3,198.6,61.6,6.64,13944,5.6
+university,riyadh,5 halala,high,Predictive energy-only,21.0,5,2,261.3,198.7,62.6,6.31,14009,6.1
+university,riyadh,5 halala,high,Predictive SC-aware,21.0,3,1,248.2,195.2,53.0,10.93,13875,5.1
+university,riyadh,5 halala,high,SC-aware perfect fcst,30.0,4,1,256.5,197.8,58.7,8.04,14306,8.4
+university,riyadh,5 halala,stress,Fixed interval,120.0,3,0,243.3,191.0,52.3,12.61,8096,0.0
+university,riyadh,5 halala,stress,Soiling threshold,0.3,2,0,243.1,190.9,52.2,12.68,10269,26.8
+university,riyadh,5 halala,stress,Predictive energy-only,45.0,4,1,257.4,196.5,60.9,7.73,8237,1.7
+university,riyadh,5 halala,stress,Predictive SC-aware,60.0,3,1,251.1,195.0,56.1,9.92,9694,19.7
+university,riyadh,5 halala,stress,SC-aware perfect fcst,45.0,2,1,243.5,190.9,52.6,12.63,10290,27.1
+university,riyadh,zero,low,Fixed interval,21.0,17,3,272.3,204.5,67.8,2.41,16990,0.0
+university,riyadh,zero,low,Soiling threshold,0.05,16,4,272.3,204.5,67.7,2.41,17061,0.4
+university,riyadh,zero,low,Predictive energy-only,7.0,19,4,273.6,205.0,68.6,1.99,16987,-0.0
+university,riyadh,zero,low,Predictive SC-aware,7.0,10,1,264.6,203.0,61.6,5.16,17009,0.1
+university,riyadh,zero,low,SC-aware perfect fcst,7.0,9,1,265.6,203.1,62.5,4.82,17108,0.7
+university,riyadh,zero,base,Fixed interval,45.0,8,2,264.7,200.8,63.9,5.1,14877,0.0
+university,riyadh,zero,base,Soiling threshold,0.1,8,2,265.8,201.1,64.7,4.73,14970,0.6
+university,riyadh,zero,base,Predictive energy-only,14.0,11,3,269.8,203.3,66.5,3.31,14938,0.4
+university,riyadh,zero,base,Predictive SC-aware,14.0,6,1,260.7,200.9,59.8,6.53,15451,3.9
+university,riyadh,zero,base,SC-aware perfect fcst,21.0,8,1,265.6,202.5,63.1,4.81,15471,4.0
+university,riyadh,zero,high,Fixed interval,60.0,6,1,260.5,198.7,61.7,6.57,11577,0.0
+university,riyadh,zero,high,Soiling threshold,0.15,5,1,260.3,198.6,61.6,6.64,12326,6.5
+university,riyadh,zero,high,Predictive energy-only,21.0,5,2,261.3,198.7,62.6,6.31,12340,6.6
+university,riyadh,zero,high,Predictive SC-aware,21.0,3,1,247.1,194.9,52.2,11.28,12596,8.8
+university,riyadh,zero,high,SC-aware perfect fcst,30.0,4,1,257.3,197.6,59.8,7.8,12736,10.0
+university,riyadh,zero,stress,Fixed interval,120.0,3,0,243.3,191.0,52.3,12.61,6944,0.0
+university,riyadh,zero,stress,Soiling threshold,0.3,2,0,243.1,190.9,52.2,12.68,9122,31.4
+university,riyadh,zero,stress,Predictive energy-only,14.0,1,1,219.6,180.4,39.2,20.94,7655,10.2
+university,riyadh,zero,stress,Predictive SC-aware,60.0,3,1,250.7,195.1,55.5,10.08,8387,20.8
+university,riyadh,zero,stress,SC-aware perfect fcst,45.0,2,1,243.6,191.5,52.1,12.58,9331,34.4
+university,jeddah,5 halala,low,Fixed interval,21.0,17,3,253.3,201.4,52.0,3.35,17513,0.0
+university,jeddah,5 halala,low,Soiling threshold,0.07,15,3,253.5,201.1,52.4,3.27,17609,0.6
+university,jeddah,5 halala,low,Predictive energy-only,7.0,24,6,256.2,202.8,53.3,2.26,17552,0.2
+university,jeddah,5 halala,low,Predictive SC-aware,7.0,16,2,251.9,202.0,49.8,3.92,17725,1.2
+university,jeddah,5 halala,low,SC-aware perfect fcst,7.0,15,2,251.0,201.9,49.1,4.23,17716,1.2
+university,jeddah,5 halala,base,Fixed interval,30.0,12,2,249.8,199.4,50.4,4.65,14863,0.0
+university,jeddah,5 halala,base,Soiling threshold,0.1,10,2,249.8,199.3,50.5,4.68,15364,3.4
+university,jeddah,5 halala,base,Predictive energy-only,7.0,6,1,244.9,195.9,49.0,6.54,15179,2.1
+university,jeddah,5 halala,base,Predictive SC-aware,14.0,8,1,244.5,198.2,46.3,6.68,15309,3.0
+university,jeddah,5 halala,base,SC-aware perfect fcst,14.0,9,1,246.4,199.2,47.2,6.01,15440,3.9
+university,jeddah,5 halala,high,Fixed interval,60.0,6,1,240.0,193.7,46.3,8.28,11167,0.0
+university,jeddah,5 halala,high,Soiling threshold,0.2,4,1,239.0,193.0,46.0,8.74,12473,11.7
+university,jeddah,5 halala,high,Predictive energy-only,14.0,4,1,238.5,193.1,45.4,8.88,12481,11.8
+university,jeddah,5 halala,high,Predictive SC-aware,30.0,6,1,241.0,195.9,45.1,7.98,11873,6.3
+university,jeddah,5 halala,high,SC-aware perfect fcst,30.0,5,1,240.3,195.6,44.8,8.26,12530,12.2
+university,jeddah,5 halala,stress,Fixed interval,120.0,3,0,224.0,186.8,37.3,14.29,6368,0.0
+university,jeddah,5 halala,stress,Soiling threshold,0.25,3,1,233.5,189.6,44.0,10.68,7676,20.6
+university,jeddah,5 halala,stress,Predictive energy-only,30.0,3,1,231.9,189.1,42.8,11.28,7450,17.0
+university,jeddah,5 halala,stress,Predictive SC-aware,45.0,3,1,231.2,190.5,40.7,11.57,7854,23.3
+university,jeddah,5 halala,stress,SC-aware perfect fcst,45.0,3,1,231.3,190.6,40.7,11.56,7876,23.7
+university,jeddah,zero,low,Fixed interval,21.0,17,3,253.3,201.4,52.0,3.35,15896,0.0
+university,jeddah,zero,low,Soiling threshold,0.07,15,3,253.5,201.1,52.4,3.27,15970,0.5
+university,jeddah,zero,low,Predictive energy-only,7.0,24,6,256.2,202.8,53.3,2.26,15867,-0.2
+university,jeddah,zero,low,Predictive SC-aware,7.0,14,1,248.7,201.5,47.3,5.13,16164,1.7
+university,jeddah,zero,low,SC-aware perfect fcst,7.0,14,1,248.7,201.5,47.2,5.15,16172,1.7
+university,jeddah,zero,base,Fixed interval,30.0,12,2,249.8,199.4,50.4,4.65,13322,0.0
+university,jeddah,zero,base,Soiling threshold,0.1,10,2,249.8,199.3,50.5,4.68,13819,3.7
+university,jeddah,zero,base,Predictive energy-only,7.0,6,1,244.9,195.9,49.0,6.54,13710,2.9
+university,jeddah,zero,base,Predictive SC-aware,14.0,8,1,244.1,198.0,46.1,6.85,13909,4.4
+university,jeddah,zero,base,SC-aware perfect fcst,14.0,8,1,244.4,198.3,46.1,6.72,14010,5.2
+university,jeddah,zero,high,Fixed interval,60.0,6,1,240.0,193.7,46.3,8.28,9834,0.0
+university,jeddah,zero,high,Soiling threshold,0.2,4,1,239.0,193.0,46.0,8.74,11157,13.5
+university,jeddah,zero,high,Predictive energy-only,14.0,4,1,238.5,193.1,45.4,8.88,11192,13.8
+university,jeddah,zero,high,Predictive SC-aware,30.0,5,1,240.2,195.7,44.5,8.31,11326,15.2
+university,jeddah,zero,high,SC-aware perfect fcst,30.0,5,1,240.2,195.7,44.5,8.31,11318,15.1
+university,jeddah,zero,stress,Fixed interval,120.0,3,0,224.0,186.8,37.3,14.29,5486,0.0
+university,jeddah,zero,stress,Soiling threshold,0.25,3,1,233.5,189.6,44.0,10.68,6459,17.7
+university,jeddah,zero,stress,Predictive energy-only,30.0,3,1,231.9,189.1,42.8,11.28,6293,14.7
+university,jeddah,zero,stress,Predictive SC-aware,45.0,3,1,231.3,190.4,40.9,11.52,6746,23.0
+university,jeddah,zero,stress,SC-aware perfect fcst,45.0,3,1,230.7,190.2,40.5,11.73,6679,21.7

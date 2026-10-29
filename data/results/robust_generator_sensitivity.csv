@@ -1,21 +1,21 @@
 city,cost,variant,SC_vs_fixed,thr_vs_fixed,eo_vs_fixed,skip_vs_fixed,fixed_mean,thr_mean,eo_mean,sc_mean,adv_pp,SC_best_mean,SC_beats_thr,SC_beats_eo
-riyadh,base,base generator,10.9,9.1,9.0,-2.7,15775,17185,17161,17467,1.8,True,87,90
-riyadh,base,no seasonality,9.7,8.0,7.2,-2.4,15836,17094,16958,17356,1.7,True,82,96
-riyadh,base,noise sigma 1.0,11.1,9.4,9.7,-2.7,15758,17205,17251,17479,1.4,True,77,75
-riyadh,base,storms x2,19.1,17.7,17.0,-5.5,15061,17667,17560,17875,1.4,True,74,86
-riyadh,base,no storms,4.5,1.6,2.2,0.9,14913,15155,15242,15579,2.3,True,100,100
-riyadh,high,base generator,22.6,14.8,18.8,-3.0,11761,13415,13866,14314,3.8,True,89,72
-riyadh,high,no seasonality,19.8,15.4,20.1,-0.3,11644,13308,13855,13829,-0.3,False,82,48
-riyadh,high,noise sigma 1.0,22.4,15.5,18.6,-2.9,11739,13466,13813,14269,3.8,True,86,71
-riyadh,high,storms x2,26.1,16.6,22.5,-5.2,10977,12717,13347,13737,3.6,True,92,70
-riyadh,high,no storms,10.3,6.6,12.1,3.7,11786,12560,13208,13006,-1.8,False,83,30
-jeddah,base,base generator,16.2,12.7,14.2,2.8,13705,15417,15620,15895,2.0,True,97,89
-jeddah,base,no seasonality,14.8,11.3,13.2,2.8,13733,15271,15520,15737,1.6,True,94,81
-jeddah,base,noise sigma 1.0,16.7,13.8,14.7,2.8,13673,15535,15655,15933,2.0,True,95,87
-jeddah,base,storms x2,27.2,23.5,26.3,2.6,13163,16135,16492,16622,1.0,True,100,75
-jeddah,base,no storms,7.7,4.5,4.9,3.2,12371,12926,12979,13326,2.8,True,100,98
-jeddah,high,base generator,52.9,49.5,51.4,13.3,8399,12108,12242,12368,1.5,True,75,65
-jeddah,high,no seasonality,50.7,47.4,48.0,12.5,8563,12185,12245,12460,2.7,True,75,66
-jeddah,high,noise sigma 1.0,53.0,50.2,52.1,13.2,8399,12138,12257,12355,1.0,True,68,57
-jeddah,high,storms x2,99.8,93.5,98.6,19.9,6564,11782,12068,12126,1.2,True,71,59
-jeddah,high,no storms,11.3,11.1,16.3,5.8,9017,10020,10483,10034,-5.0,False,59,10
+riyadh,base,base generator,11.3,10.8,9.0,3.8,17455,19306,18989,19400,0.6,True,59,94
+riyadh,base,no seasonality,9.9,9.1,7.3,2.9,17522,19091,18775,19245,0.9,True,78,98
+riyadh,base,noise sigma 1.0,11.6,10.9,9.5,3.8,17436,19308,19053,19420,0.6,True,61,86
+riyadh,base,storms x2,19.5,19.1,17.2,5.6,16674,19792,19472,19869,0.5,True,57,88
+riyadh,base,no storms,5.1,3.4,1.9,2.2,16512,17067,16828,17359,1.8,True,97,99
+riyadh,high,base generator,22.0,17.2,15.8,-2.2,13016,15209,15026,15809,4.7,True,76,81
+riyadh,high,no seasonality,20.5,15.5,14.6,-1.5,13091,15094,14971,15725,5.0,True,84,90
+riyadh,high,noise sigma 1.0,22.7,17.8,16.2,-2.2,13001,15261,15063,15892,5.0,True,76,84
+riyadh,high,storms x2,26.8,19.8,17.0,-4.9,12243,14613,14274,15445,7.0,True,85,87
+riyadh,high,no storms,11.8,7.1,5.2,4.3,13169,14107,13857,14724,4.7,True,97,97
+jeddah,base,base generator,15.0,12.4,13.5,2.4,15292,17154,17333,17558,1.5,True,99,86
+jeddah,base,no seasonality,13.5,11.1,12.4,2.5,15322,16998,17200,17376,1.1,True,94,76
+jeddah,base,noise sigma 1.0,15.6,13.4,14.0,2.5,15257,17278,17357,17605,1.6,True,91,85
+jeddah,base,storms x2,26.2,23.3,25.4,2.2,14699,17993,18289,18412,0.8,True,98,64
+jeddah,base,no storms,6.5,4.0,4.4,2.8,13832,14392,14440,14734,2.1,True,94,97
+jeddah,high,base generator,30.4,32.4,32.7,1.4,10428,13706,13739,13485,-2.4,False,38,31
+jeddah,high,no seasonality,30.6,31.7,31.9,1.7,10522,13765,13781,13653,-1.3,False,39,41
+jeddah,high,noise sigma 1.0,31.0,33.1,33.6,1.4,10414,13738,13791,13534,-2.6,False,40,33
+jeddah,high,storms x2,50.4,53.2,54.4,-3.6,9018,13526,13636,13274,-4.0,False,26,25
+jeddah,high,no storms,10.0,10.6,12.1,5.6,10234,11318,11465,11255,-2.1,False,41,31

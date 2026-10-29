@@ -13,7 +13,7 @@ FIGURES = ROOT / 'figures'
 CITIES = ['riyadh', 'jeddah']
 
 # ---------------- economic and technical assumptions ----------------
-P_IMP = 0.32                    # SAR/kWh, governmental import tariff
+P_IMP = 0.35                    # SAR/kWh, governmental import tariff
 PV_KWP = 150                    # kWp
 FLOOR = 4982                    # m2, prototype floor area
 AREA = PV_KWP / 0.21            # module area, m2 (~714)

@@ -2,9 +2,9 @@
 
 Code and data for the paper:
 
-> M. Al-Dhamari and M. Al-Khalifi, "Self-Consumption-Aware Predictive Cleaning Scheduling for Rooftop PV on a Saudi University Building under Net Billing with Low Export Compensation: Riyadh versus Jeddah," submitted to ICAISC 2027, Jeddah, Saudi Arabia.
+> M. A. Al-Dhamari and M. E. Khlifi, "Self-Consumption-Aware Predictive Cleaning Scheduling for Rooftop PV on a Saudi University Building under Net Billing with Low Export Compensation: Riyadh versus Jeddah," submitted to ICAISC 2027, Jeddah, Saudi Arabia.
 
-The study combines hourly EnergyPlus building loads, pvlib PV output and a soiling model to compare PV cleaning policies for a 150 kWp rooftop array when exported energy is credited at 0.05 SAR/kWh or not at all, against an import tariff of 0.32 SAR/kWh.
+The study combines hourly EnergyPlus building loads, pvlib PV output and a soiling model to compare PV cleaning policies for a 150 kWp rooftop array when exported energy is credited at 0.05 SAR/kWh or not at all, against the 2027 governmental import tariff of 0.35 SAR/kWh.
 
 ## Repository layout
 
@@ -45,7 +45,7 @@ All scripts are run from the repository root or from `code/`; paths are resolved
 | Calendar | 2026, Sunday–Thursday week, Eid al-Fitr 19–25 Mar, Eid al-Adha 25–31 May; university case adds a summer break 14 Jun–22 Aug |
 | PV | 150 kWp, 20° tilt, south, Hay–Davies, Faiman, PVWatts, 12% losses, DC/AC 1.2 |
 | Soiling | linear, 0.25 %/day (Riyadh), 0.35 %/day (Jeddah), cap 60%, reset by rain ≥ 3 mm/day |
-| Tariffs | import 0.32 SAR/kWh; export 0.05 SAR/kWh or zero |
+| Tariffs | import 0.35 SAR/kWh (governmental tariff from 1 January 2027); export 0.05 SAR/kWh or zero |
 | Cleaning cost | 0.11 / 0.375 / 1.1 / 3.1 SAR/m² per event (module area 714 m²) |
 | Battery case | 100 kWh / 50 kW, 95% one-way efficiency, 10–90% SOC |
 
