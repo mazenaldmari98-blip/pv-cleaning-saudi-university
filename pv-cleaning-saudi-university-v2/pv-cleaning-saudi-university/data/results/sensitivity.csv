@@ -1,0 +1,225 @@
+case,city,export,cost,EUI,strategy,param,n,summer_n,pv_MWh,self_MWh,export_MWh,mean_loss_pct,gain,vs_fixed_pct
+base,riyadh,5 halala,base,86,Fixed interval,45.0,8,2,264.7,200.8,63.9,5.1,16609,0.0
+base,riyadh,5 halala,base,86,Soiling threshold,0.1,8,2,265.8,201.1,64.7,4.73,16744,0.8
+base,riyadh,5 halala,base,86,Predictive energy-only,14.0,11,3,269.8,203.3,66.5,3.31,16801,1.2
+base,riyadh,5 halala,base,86,Predictive SC-aware,14.0,6,1,260.8,201.0,59.9,6.52,16996,2.3
+base,riyadh,5 halala,high,86,Fixed interval,60.0,6,1,260.5,198.7,61.7,6.57,13199,0.0
+base,riyadh,5 halala,high,86,Soiling threshold,0.15,5,1,260.3,198.6,61.6,6.64,13944,5.6
+base,riyadh,5 halala,high,86,Predictive energy-only,21.0,5,2,261.3,198.7,62.6,6.31,14009,6.1
+base,riyadh,5 halala,high,86,Predictive SC-aware,21.0,3,1,248.2,195.2,53.0,10.93,13875,5.1
+base,riyadh,zero,base,86,Fixed interval,45.0,8,2,264.7,200.8,63.9,5.1,14877,0.0
+base,riyadh,zero,base,86,Soiling threshold,0.1,8,2,265.8,201.1,64.7,4.73,14970,0.6
+base,riyadh,zero,base,86,Predictive energy-only,14.0,11,3,269.8,203.3,66.5,3.31,14938,0.4
+base,riyadh,zero,base,86,Predictive SC-aware,14.0,6,1,260.7,200.9,59.8,6.53,15451,3.9
+base,riyadh,zero,high,86,Fixed interval,60.0,6,1,260.5,198.7,61.7,6.57,11577,0.0
+base,riyadh,zero,high,86,Soiling threshold,0.15,5,1,260.3,198.6,61.6,6.64,12326,6.5
+base,riyadh,zero,high,86,Predictive energy-only,21.0,5,2,261.3,198.7,62.6,6.31,12340,6.6
+base,riyadh,zero,high,86,Predictive SC-aware,21.0,3,1,247.1,194.9,52.2,11.28,12596,8.8
+base,jeddah,5 halala,base,99,Fixed interval,30.0,12,2,249.8,199.4,50.4,4.65,14863,0.0
+base,jeddah,5 halala,base,99,Soiling threshold,0.1,10,2,249.8,199.3,50.5,4.68,15364,3.4
+base,jeddah,5 halala,base,99,Predictive energy-only,7.0,6,1,244.9,195.9,49.0,6.54,15179,2.1
+base,jeddah,5 halala,base,99,Predictive SC-aware,14.0,8,1,244.5,198.2,46.3,6.68,15309,3.0
+base,jeddah,5 halala,high,99,Fixed interval,60.0,6,1,240.0,193.7,46.3,8.28,11167,0.0
+base,jeddah,5 halala,high,99,Soiling threshold,0.2,4,1,239.0,193.0,46.0,8.74,12473,11.7
+base,jeddah,5 halala,high,99,Predictive energy-only,14.0,4,1,238.5,193.1,45.4,8.88,12481,11.8
+base,jeddah,5 halala,high,99,Predictive SC-aware,30.0,6,1,241.0,195.9,45.1,7.98,11873,6.3
+base,jeddah,zero,base,99,Fixed interval,30.0,12,2,249.8,199.4,50.4,4.65,13322,0.0
+base,jeddah,zero,base,99,Soiling threshold,0.1,10,2,249.8,199.3,50.5,4.68,13819,3.7
+base,jeddah,zero,base,99,Predictive energy-only,7.0,6,1,244.9,195.9,49.0,6.54,13710,2.9
+base,jeddah,zero,base,99,Predictive SC-aware,14.0,8,1,244.1,198.0,46.1,6.85,13909,4.4
+base,jeddah,zero,high,99,Fixed interval,60.0,6,1,240.0,193.7,46.3,8.28,9834,0.0
+base,jeddah,zero,high,99,Soiling threshold,0.2,4,1,239.0,193.0,46.0,8.74,11157,13.5
+base,jeddah,zero,high,99,Predictive energy-only,14.0,4,1,238.5,193.1,45.4,8.88,11192,13.8
+base,jeddah,zero,high,99,Predictive SC-aware,30.0,5,1,240.2,195.7,44.5,8.31,11326,15.2
+soiling low,riyadh,5 halala,base,86,Fixed interval,60.0,6,1,271.7,204.1,67.6,2.63,5797,0.0
+soiling low,riyadh,5 halala,base,86,Soiling threshold,0.05,6,1,272.7,204.6,68.1,2.24,6010,3.7
+soiling low,riyadh,5 halala,base,86,Predictive energy-only,21.0,6,2,273.0,204.8,68.2,2.18,6078,4.8
+soiling low,riyadh,5 halala,base,86,Predictive SC-aware,30.0,5,1,270.8,204.4,66.4,2.95,6104,5.3
+soiling low,riyadh,5 halala,high,86,Fixed interval,120.0,3,0,264.8,201.2,63.6,5.04,3836,0.0
+soiling low,riyadh,5 halala,high,86,Soiling threshold,0.1,3,1,266.8,201.6,65.2,4.29,4073,6.2
+soiling low,riyadh,5 halala,high,86,Predictive energy-only,30.0,3,1,267.7,202.1,65.6,3.99,4264,11.2
+soiling low,riyadh,5 halala,high,86,Predictive SC-aware,45.0,3,1,266.8,202.4,64.4,4.34,4310,12.3
+soiling low,riyadh,zero,base,86,Fixed interval,60.0,6,1,271.7,204.1,67.6,2.63,5025,0.0
+soiling low,riyadh,zero,base,86,Soiling threshold,0.07,4,1,270.5,203.1,67.4,3.07,5227,4.0
+soiling low,riyadh,zero,base,86,Predictive energy-only,21.0,6,2,273.0,204.8,68.2,2.18,5272,4.9
+soiling low,riyadh,zero,base,86,Predictive SC-aware,21.0,3,1,266.8,203.0,63.8,4.36,5449,8.5
+soiling low,riyadh,zero,high,86,Fixed interval,120.0,3,0,264.8,201.2,63.6,5.04,3261,0.0
+soiling low,riyadh,zero,high,86,Soiling threshold,0.1,3,1,266.8,201.6,65.2,4.29,3420,4.9
+soiling low,riyadh,zero,high,86,Predictive energy-only,30.0,3,1,267.7,202.1,65.6,3.99,3589,10.1
+soiling low,riyadh,zero,high,86,Predictive SC-aware,45.0,3,1,266.6,202.4,64.2,4.42,3697,13.4
+soiling low,jeddah,5 halala,base,99,Fixed interval,60.0,6,1,252.6,200.9,51.7,3.55,6824,0.0
+soiling low,jeddah,5 halala,base,99,Soiling threshold,0.07,6,2,253.8,201.5,52.3,3.17,7036,3.1
+soiling low,jeddah,5 halala,base,99,Predictive energy-only,14.0,5,2,253.7,201.6,52.1,3.21,7329,7.4
+soiling low,jeddah,5 halala,base,99,Predictive SC-aware,21.0,5,1,252.6,201.6,50.9,3.61,7297,6.9
+soiling low,jeddah,5 halala,high,99,Fixed interval,120.0,3,0,245.8,198.2,47.6,6.12,4907,0.0
+soiling low,jeddah,5 halala,high,99,Soiling threshold,0.15,2,0,246.1,197.5,48.6,6.0,5515,12.4
+soiling low,jeddah,5 halala,high,99,Predictive energy-only,21.0,2,1,246.2,197.7,48.5,5.99,5573,13.6
+soiling low,jeddah,5 halala,high,99,Predictive SC-aware,60.0,4,2,250.9,200.4,50.5,4.23,5024,2.4
+soiling low,jeddah,zero,base,99,Fixed interval,60.0,6,1,252.6,200.9,51.7,3.55,6118,0.0
+soiling low,jeddah,zero,base,99,Soiling threshold,0.1,4,1,251.0,200.1,50.9,4.15,6344,3.7
+soiling low,jeddah,zero,base,99,Predictive energy-only,14.0,5,2,253.7,201.6,52.1,3.21,6604,7.9
+soiling low,jeddah,zero,base,99,Predictive SC-aware,14.0,3,1,247.3,199.9,47.5,5.56,6549,7.0
+soiling low,jeddah,zero,high,99,Fixed interval,120.0,3,0,245.8,198.2,47.6,6.12,4406,0.0
+soiling low,jeddah,zero,high,99,Soiling threshold,0.15,2,0,246.1,197.5,48.6,6.0,4966,12.7
+soiling low,jeddah,zero,high,99,Predictive energy-only,21.0,2,1,246.2,197.7,48.5,5.99,5030,14.2
+soiling low,jeddah,zero,high,99,Predictive SC-aware,45.0,3,1,248.5,199.7,48.8,5.1,4930,11.9
+soiling high,riyadh,5 halala,base,86,Fixed interval,30.0,12,2,259.4,198.5,60.9,7.0,21582,0.0
+soiling high,riyadh,5 halala,base,86,Soiling threshold,0.15,10,2,259.2,198.4,60.8,7.09,22060,2.2
+soiling high,riyadh,5 halala,base,86,Predictive energy-only,7.0,11,3,260.5,198.8,61.7,6.62,21989,1.9
+soiling high,riyadh,5 halala,base,86,Predictive SC-aware,14.0,13,2,260.0,200.4,59.6,6.84,21900,1.5
+soiling high,riyadh,5 halala,high,86,Fixed interval,45.0,8,2,250.3,193.8,56.6,10.2,16623,0.0
+soiling high,riyadh,5 halala,high,86,Soiling threshold,0.25,6,1,247.2,192.1,55.1,11.22,17537,5.5
+soiling high,riyadh,5 halala,high,86,Predictive energy-only,14.0,7,2,252.3,194.4,57.9,9.58,17697,6.5
+soiling high,riyadh,5 halala,high,86,Predictive SC-aware,21.0,7,1,244.6,194.1,50.5,12.23,17233,3.7
+soiling high,riyadh,zero,base,86,Fixed interval,30.0,12,2,259.4,198.5,60.9,7.0,19466,0.0
+soiling high,riyadh,zero,base,86,Soiling threshold,0.15,10,2,259.2,198.4,60.8,7.09,19947,2.5
+soiling high,riyadh,zero,base,86,Predictive energy-only,7.0,11,3,260.5,198.8,61.7,6.62,19833,1.9
+soiling high,riyadh,zero,base,86,Predictive SC-aware,14.0,12,1,257.0,200.1,56.9,7.91,19997,2.7
+soiling high,riyadh,zero,high,86,Fixed interval,45.0,8,2,250.3,193.8,56.6,10.2,14723,0.0
+soiling high,riyadh,zero,high,86,Soiling threshold,0.25,6,1,247.2,192.1,55.1,11.22,15711,6.7
+soiling high,riyadh,zero,high,86,Predictive energy-only,14.0,7,2,252.3,194.4,57.9,9.58,15730,6.8
+soiling high,riyadh,zero,high,86,Predictive SC-aware,21.0,6,1,245.6,193.5,52.1,11.97,16199,10.0
+soiling high,jeddah,5 halala,base,99,Fixed interval,21.0,17,3,247.0,197.8,49.2,5.74,17643,0.0
+soiling high,jeddah,5 halala,base,99,Soiling threshold,0.15,13,2,244.2,195.8,48.4,6.8,17970,1.9
+soiling high,jeddah,5 halala,base,99,Predictive energy-only,7.0,12,3,244.0,195.8,48.2,6.89,18211,3.2
+soiling high,jeddah,5 halala,base,99,Predictive SC-aware,14.0,14,2,243.6,197.9,45.7,7.08,18298,3.7
+soiling high,jeddah,5 halala,high,99,Fixed interval,60.0,6,1,224.2,184.3,39.9,14.2,12279,0.0
+soiling high,jeddah,5 halala,high,99,Soiling threshold,0.3,5,1,228.0,186.8,41.1,12.9,14010,14.1
+soiling high,jeddah,5 halala,high,99,Predictive energy-only,14.0,7,2,235.9,190.3,45.6,9.99,13878,13.0
+soiling high,jeddah,5 halala,high,99,Predictive SC-aware,21.0,7,1,231.5,190.4,41.1,11.65,13694,11.5
+soiling high,jeddah,zero,base,99,Fixed interval,30.0,12,2,241.0,194.4,46.7,7.97,16018,0.0
+soiling high,jeddah,zero,base,99,Soiling threshold,0.15,13,2,244.2,195.8,48.4,6.8,16263,1.5
+soiling high,jeddah,zero,base,99,Predictive energy-only,7.0,12,3,244.0,195.8,48.2,6.89,16511,3.1
+soiling high,jeddah,zero,base,99,Predictive SC-aware,14.0,13,1,239.0,196.7,42.3,8.81,16574,3.5
+soiling high,jeddah,zero,high,99,Fixed interval,60.0,6,1,224.2,184.3,39.9,14.2,10996,0.0
+soiling high,jeddah,zero,high,99,Soiling threshold,0.3,5,1,228.0,186.8,41.1,12.9,12664,15.2
+soiling high,jeddah,zero,high,99,Predictive energy-only,14.0,7,2,235.9,190.3,45.6,9.99,12308,11.9
+soiling high,jeddah,zero,high,99,Predictive SC-aware,21.0,6,1,221.8,188.1,33.6,15.24,12337,12.2
+load -20%,riyadh,5 halala,base,69,Fixed interval,45.0,8,2,264.7,183.0,81.8,5.1,15051,0.0
+load -20%,riyadh,5 halala,base,69,Soiling threshold,0.1,8,2,265.8,183.2,82.7,4.73,15160,0.7
+load -20%,riyadh,5 halala,base,69,Predictive energy-only,7.0,5,2,261.3,181.2,80.1,6.32,15156,0.7
+load -20%,riyadh,5 halala,base,69,Predictive SC-aware,21.0,7,1,262.3,183.7,78.6,5.99,15427,2.5
+load -20%,riyadh,5 halala,high,69,Fixed interval,90.0,4,1,251.9,177.6,74.4,9.55,11788,0.0
+load -20%,riyadh,5 halala,high,69,Soiling threshold,0.15,5,1,260.3,181.2,79.1,6.64,12503,6.1
+load -20%,riyadh,5 halala,high,69,Predictive energy-only,14.0,3,0,252.6,177.7,74.9,9.38,12654,7.3
+load -20%,riyadh,5 halala,high,69,Predictive SC-aware,30.0,3,1,249.9,178.9,71.1,10.35,12865,9.1
+load -20%,riyadh,zero,base,69,Fixed interval,45.0,8,2,264.7,183.0,81.8,5.1,13059,0.0
+load -20%,riyadh,zero,base,69,Soiling threshold,0.15,5,1,260.3,181.2,79.1,6.64,13235,1.3
+load -20%,riyadh,zero,base,69,Predictive energy-only,7.0,5,2,261.3,181.2,80.1,6.32,13250,1.5
+load -20%,riyadh,zero,base,69,Predictive SC-aware,14.0,4,1,255.0,181.4,73.6,8.58,13578,4.0
+load -20%,riyadh,zero,high,69,Fixed interval,120.0,3,0,243.3,175.4,67.9,12.61,10183,0.0
+load -20%,riyadh,zero,high,69,Soiling threshold,0.3,2,0,243.1,175.3,67.8,12.68,10950,7.5
+load -20%,riyadh,zero,high,69,Predictive energy-only,14.0,3,0,252.6,177.7,74.9,9.38,11004,8.1
+load -20%,riyadh,zero,high,69,Predictive SC-aware,30.0,3,1,249.5,179.0,70.5,10.48,11455,12.5
+load -20%,jeddah,5 halala,base,79,Fixed interval,30.0,12,2,249.8,187.8,62.0,4.65,13736,0.0
+load -20%,jeddah,5 halala,base,79,Soiling threshold,0.1,10,2,249.8,187.7,62.1,4.68,14237,3.6
+load -20%,jeddah,5 halala,base,79,Predictive energy-only,7.0,6,1,244.9,184.6,60.3,6.54,14147,3.0
+load -20%,jeddah,5 halala,base,79,Predictive SC-aware,14.0,8,1,244.3,186.8,57.5,6.77,14232,3.6
+load -20%,jeddah,5 halala,high,79,Fixed interval,60.0,6,1,240.0,182.6,57.4,8.28,10177,0.0
+load -20%,jeddah,5 halala,high,79,Soiling threshold,0.2,4,1,239.0,181.9,57.0,8.74,11502,13.0
+load -20%,jeddah,5 halala,high,79,Predictive energy-only,14.0,4,1,238.5,182.0,56.5,8.88,11505,13.0
+load -20%,jeddah,5 halala,high,79,Predictive SC-aware,30.0,5,1,240.4,184.7,55.7,8.22,11629,14.3
+load -20%,jeddah,zero,base,79,Fixed interval,30.0,12,2,249.8,187.8,62.0,4.65,12008,0.0
+load -20%,jeddah,zero,base,79,Soiling threshold,0.1,10,2,249.8,187.7,62.1,4.68,12504,4.1
+load -20%,jeddah,zero,base,79,Predictive energy-only,7.0,6,1,244.9,184.6,60.3,6.54,12506,4.1
+load -20%,jeddah,zero,base,79,Predictive SC-aware,14.0,8,1,244.0,186.5,57.5,6.89,12611,5.0
+load -20%,jeddah,zero,high,79,Fixed interval,120.0,3,0,224.0,176.5,47.5,14.29,8910,0.0
+load -20%,jeddah,zero,high,79,Soiling threshold,0.2,4,1,239.0,181.9,57.0,8.74,10023,12.5
+load -20%,jeddah,zero,high,79,Predictive energy-only,14.0,4,1,238.5,182.0,56.5,8.88,10053,12.8
+load -20%,jeddah,zero,high,79,Predictive SC-aware,21.0,3,1,228.0,180.2,47.8,12.82,10200,14.5
+load +20%,riyadh,5 halala,base,104,Fixed interval,45.0,8,2,264.7,213.1,51.7,5.1,17932,0.0
+load +20%,riyadh,5 halala,base,104,Soiling threshold,0.1,8,2,265.8,213.3,52.5,4.73,18054,0.7
+load +20%,riyadh,5 halala,base,104,Predictive energy-only,14.0,11,3,269.8,215.7,54.1,3.31,18174,1.4
+load +20%,riyadh,5 halala,base,104,Predictive SC-aware,21.0,10,2,267.7,215.6,52.1,4.09,18287,2.0
+load +20%,riyadh,5 halala,high,104,Fixed interval,60.0,6,1,260.5,210.6,49.8,6.57,14413,0.0
+load +20%,riyadh,5 halala,high,104,Soiling threshold,0.15,5,1,260.3,210.5,49.8,6.64,15133,5.0
+load +20%,riyadh,5 halala,high,104,Predictive energy-only,21.0,5,2,261.3,210.6,50.8,6.31,15215,5.6
+load +20%,riyadh,5 halala,high,104,Predictive SC-aware,30.0,5,1,258.0,210.7,47.3,7.43,15094,4.7
+load +20%,riyadh,zero,base,104,Fixed interval,45.0,8,2,264.7,213.1,51.7,5.1,16420,0.0
+load +20%,riyadh,zero,base,104,Soiling threshold,0.1,8,2,265.8,213.3,52.5,4.73,16499,0.5
+load +20%,riyadh,zero,base,104,Predictive energy-only,14.0,11,3,269.8,215.7,54.1,3.31,16540,0.7
+load +20%,riyadh,zero,base,104,Predictive SC-aware,14.0,6,1,260.7,212.9,47.9,6.54,16888,2.8
+load +20%,riyadh,zero,high,104,Fixed interval,60.0,6,1,260.5,210.6,49.8,6.57,12994,0.0
+load +20%,riyadh,zero,high,104,Soiling threshold,0.15,5,1,260.3,210.5,49.8,6.64,13713,5.5
+load +20%,riyadh,zero,high,104,Predictive energy-only,21.0,5,2,261.3,210.6,50.8,6.31,13748,5.8
+load +20%,riyadh,zero,high,104,Predictive SC-aware,21.0,3,1,247.9,206.0,41.9,11.04,13730,5.7
+load +20%,jeddah,5 halala,base,119,Fixed interval,30.0,12,2,249.8,208.3,41.5,4.65,16001,0.0
+load +20%,jeddah,5 halala,base,119,Soiling threshold,0.1,10,2,249.8,208.2,41.6,4.68,16504,3.1
+load +20%,jeddah,5 halala,base,119,Predictive energy-only,14.0,13,3,252.5,209.8,42.7,3.67,16309,1.9
+load +20%,jeddah,5 halala,base,119,Predictive SC-aware,14.0,8,1,244.8,207.0,37.8,6.56,16430,2.7
+load +20%,jeddah,5 halala,high,119,Fixed interval,60.0,6,1,240.0,202.2,37.8,8.28,12192,0.0
+load +20%,jeddah,5 halala,high,119,Soiling threshold,0.2,4,1,239.0,201.4,37.5,8.74,13480,10.6
+load +20%,jeddah,5 halala,high,119,Predictive energy-only,14.0,4,1,238.5,201.6,36.9,8.88,13494,10.7
+load +20%,jeddah,5 halala,high,119,Predictive SC-aware,21.0,4,1,238.3,202.2,36.1,9.01,13684,12.2
+load +20%,jeddah,zero,base,119,Fixed interval,30.0,12,2,249.8,208.3,41.5,4.65,14650,0.0
+load +20%,jeddah,zero,base,119,Soiling threshold,0.1,10,2,249.8,208.2,41.6,4.68,15149,3.4
+load +20%,jeddah,zero,base,119,Predictive energy-only,7.0,6,1,244.9,204.6,40.3,6.54,14973,2.2
+load +20%,jeddah,zero,base,119,Predictive SC-aware,14.0,8,1,244.5,206.9,37.5,6.71,15251,4.1
+load +20%,jeddah,zero,high,119,Fixed interval,60.0,6,1,240.0,202.2,37.8,8.28,11029,0.0
+load +20%,jeddah,zero,high,119,Soiling threshold,0.2,4,1,239.0,201.4,37.5,8.74,12331,11.8
+load +20%,jeddah,zero,high,119,Predictive energy-only,14.0,4,1,238.5,201.6,36.9,8.88,12374,12.2
+load +20%,jeddah,zero,high,119,Predictive SC-aware,30.0,6,1,240.9,204.6,36.4,8.01,11849,7.4
+load +40%,riyadh,5 halala,base,121,Fixed interval,45.0,8,2,264.7,222.0,42.7,5.1,19226,0.0
+load +40%,riyadh,5 halala,base,121,Soiling threshold,0.1,8,2,265.8,222.3,43.5,4.73,19376,0.8
+load +40%,riyadh,5 halala,base,121,Predictive energy-only,14.0,11,3,269.8,224.9,44.9,3.31,19550,1.7
+load +40%,riyadh,5 halala,base,121,Predictive SC-aware,14.0,7,1,263.7,222.6,41.1,5.51,19612,2.0
+load +40%,riyadh,5 halala,high,121,Fixed interval,60.0,6,1,260.5,219.4,41.1,6.57,15650,0.0
+load +40%,riyadh,5 halala,high,121,Soiling threshold,0.15,5,1,260.3,219.2,41.1,6.64,16370,4.6
+load +40%,riyadh,5 halala,high,121,Predictive energy-only,21.0,5,2,261.3,219.4,41.9,6.31,16476,5.3
+load +40%,riyadh,5 halala,high,121,Predictive SC-aware,30.0,5,1,258.3,219.5,38.8,7.36,16357,4.5
+load +40%,riyadh,zero,base,121,Fixed interval,45.0,8,2,264.7,222.0,42.7,5.1,17930,0.0
+load +40%,riyadh,zero,base,121,Soiling threshold,0.1,8,2,265.8,222.3,43.5,4.73,18041,0.6
+load +40%,riyadh,zero,base,121,Predictive energy-only,14.0,11,3,269.8,224.9,44.9,3.31,18145,1.2
+load +40%,riyadh,zero,base,121,Predictive SC-aware,14.0,6,1,260.6,221.7,39.0,6.6,18338,2.3
+load +40%,riyadh,zero,high,121,Fixed interval,60.0,6,1,260.5,219.4,41.1,6.57,14437,0.0
+load +40%,riyadh,zero,high,121,Soiling threshold,0.15,5,1,260.3,219.2,41.1,6.64,15157,5.0
+load +40%,riyadh,zero,high,121,Predictive energy-only,21.0,5,2,261.3,219.4,41.9,6.31,15219,5.4
+load +40%,riyadh,zero,high,121,Predictive SC-aware,21.0,3,1,248.6,214.4,34.2,10.8,15052,4.3
+load +40%,jeddah,5 halala,base,139,Fixed interval,30.0,12,2,249.8,215.7,34.2,4.65,17156,0.0
+load +40%,jeddah,5 halala,base,139,Soiling threshold,0.1,10,2,249.8,215.6,34.2,4.68,17658,2.9
+load +40%,jeddah,5 halala,base,139,Predictive energy-only,14.0,13,3,252.5,217.2,35.3,3.67,17488,1.9
+load +40%,jeddah,5 halala,base,139,Predictive SC-aware,14.0,10,1,246.6,215.3,31.3,5.9,17418,1.5
+load +40%,jeddah,5 halala,high,139,Fixed interval,60.0,6,1,240.0,209.4,30.6,8.28,13275,0.0
+load +40%,jeddah,5 halala,high,139,Soiling threshold,0.2,4,1,239.0,208.5,30.4,8.74,14536,9.5
+load +40%,jeddah,5 halala,high,139,Predictive energy-only,14.0,4,1,238.5,208.6,29.9,8.88,14548,9.6
+load +40%,jeddah,5 halala,high,139,Predictive SC-aware,30.0,6,2,241.2,211.6,29.6,7.92,14007,5.5
+load +40%,jeddah,zero,base,139,Fixed interval,30.0,12,2,249.8,215.7,34.2,4.65,15998,0.0
+load +40%,jeddah,zero,base,139,Soiling threshold,0.1,10,2,249.8,215.6,34.2,4.68,16495,3.1
+load +40%,jeddah,zero,base,139,Predictive energy-only,7.0,6,1,244.9,211.9,33.0,6.54,16282,1.8
+load +40%,jeddah,zero,base,139,Predictive SC-aware,14.0,8,1,244.6,214.3,30.3,6.65,16577,3.6
+load +40%,jeddah,zero,high,139,Fixed interval,60.0,6,1,240.0,209.4,30.6,8.28,12293,0.0
+load +40%,jeddah,zero,high,139,Soiling threshold,0.2,4,1,239.0,208.5,30.4,8.74,13563,10.3
+load +40%,jeddah,zero,high,139,Predictive energy-only,14.0,4,1,238.5,208.6,29.9,8.88,13603,10.7
+load +40%,jeddah,zero,high,139,Predictive SC-aware,30.0,6,1,241.0,212.0,29.0,8.0,13206,7.4
+load +60%,riyadh,5 halala,base,138,Fixed interval,30.0,12,2,269.3,232.4,36.9,3.5,20580,0.0
+load +60%,riyadh,5 halala,base,138,Soiling threshold,0.1,8,2,265.8,229.9,36.0,4.73,20728,0.7
+load +60%,riyadh,5 halala,base,138,Predictive energy-only,14.0,11,3,269.8,232.5,37.3,3.31,20930,1.7
+load +60%,riyadh,5 halala,base,138,Predictive SC-aware,14.0,7,2,264.5,230.1,34.4,5.23,20998,2.0
+load +60%,riyadh,5 halala,high,138,Fixed interval,60.0,6,1,260.5,226.6,33.8,6.57,16918,0.0
+load +60%,riyadh,5 halala,high,138,Soiling threshold,0.15,5,1,260.3,226.4,33.8,6.64,17638,4.3
+load +60%,riyadh,5 halala,high,138,Predictive energy-only,21.0,5,2,261.3,226.7,34.7,6.31,17755,4.9
+load +60%,riyadh,5 halala,high,138,Predictive SC-aware,30.0,5,2,258.9,226.7,32.2,7.14,17654,4.3
+load +60%,riyadh,zero,base,138,Fixed interval,45.0,8,2,264.7,229.4,35.3,5.1,19454,0.0
+load +60%,riyadh,zero,base,138,Soiling threshold,0.1,8,2,265.8,229.9,36.0,4.73,19618,0.8
+load +60%,riyadh,zero,base,138,Predictive energy-only,14.0,11,3,269.8,232.5,37.3,3.31,19755,1.5
+load +60%,riyadh,zero,base,138,Predictive SC-aware,14.0,7,1,263.4,229.8,33.7,5.6,19849,2.0
+load +60%,riyadh,zero,high,138,Fixed interval,60.0,6,1,260.5,226.6,33.8,6.57,15916,0.0
+load +60%,riyadh,zero,high,138,Soiling threshold,0.15,5,1,260.3,226.4,33.8,6.64,16636,4.5
+load +60%,riyadh,zero,high,138,Predictive energy-only,21.0,5,2,261.3,226.7,34.7,6.31,16711,5.0
+load +60%,riyadh,zero,high,138,Predictive SC-aware,30.0,5,1,259.1,226.2,32.9,7.1,16566,4.1
+load +60%,jeddah,5 halala,base,159,Fixed interval,30.0,12,2,249.8,222.1,27.7,4.65,18324,0.0
+load +60%,jeddah,5 halala,base,159,Soiling threshold,0.1,10,2,249.8,222.0,27.8,4.68,18825,2.7
+load +60%,jeddah,5 halala,base,159,Predictive energy-only,14.0,13,3,252.5,223.7,28.7,3.67,18679,1.9
+load +60%,jeddah,5 halala,base,159,Predictive SC-aware,14.0,10,1,247.9,222.0,25.9,5.39,18731,2.2
+load +60%,jeddah,5 halala,high,159,Fixed interval,60.0,6,1,240.0,215.6,24.4,8.28,14373,0.0
+load +60%,jeddah,5 halala,high,159,Soiling threshold,0.2,4,1,239.0,214.8,24.2,8.74,15660,9.0
+load +60%,jeddah,5 halala,high,159,Predictive energy-only,14.0,4,1,238.5,214.9,23.6,8.88,15659,8.9
+load +60%,jeddah,5 halala,high,159,Predictive SC-aware,30.0,6,2,243.4,217.9,25.4,7.09,15254,6.1
+load +60%,jeddah,zero,base,159,Fixed interval,30.0,12,2,249.8,222.1,27.7,4.65,17360,0.0
+load +60%,jeddah,zero,base,159,Soiling threshold,0.1,10,2,249.8,222.0,27.8,4.68,17857,2.9
+load +60%,jeddah,zero,base,159,Predictive energy-only,14.0,13,3,252.5,223.7,28.7,3.67,17664,1.8
+load +60%,jeddah,zero,base,159,Predictive SC-aware,14.0,8,1,244.6,220.4,24.2,6.61,17847,2.8
+load +60%,jeddah,zero,high,159,Fixed interval,60.0,6,1,240.0,215.6,24.4,8.28,13575,0.0
+load +60%,jeddah,zero,high,159,Soiling threshold,0.2,4,1,239.0,214.8,24.2,8.74,14875,9.6
+load +60%,jeddah,zero,high,159,Predictive energy-only,14.0,4,1,238.5,214.9,23.6,8.88,14900,9.8
+load +60%,jeddah,zero,high,159,Predictive SC-aware,21.0,4,1,238.3,215.4,22.9,9.01,15087,11.1
